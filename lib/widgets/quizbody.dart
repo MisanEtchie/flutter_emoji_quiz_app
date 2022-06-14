@@ -170,12 +170,22 @@ class _QuizBodyState extends State<QuizBody> {
         padding: const EdgeInsets.symmetric(horizontal: 24),
         child: Column(
           children: [
-            Text(
-              "Question ${_questionIndex + 1}/${newquestions.length}",
-              style: TextStyle(
-                  fontSize: 14,
-                  fontWeight: FontWeight.bold,
-                  color: Colors.grey[700]),
+            RichText(
+              text: TextSpan(
+                style: TextStyle(
+                    fontSize: 18,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.grey[700]),
+                children: [
+                  TextSpan(
+                    text: 'Question ${_questionIndex + 1}/',
+                    style: TextStyle(fontSize: 26),
+                  ),
+                  TextSpan(
+                    text: '${newquestions.length}',
+                  )
+                ],
+              ),
             ),
             SizedBox(height: 4),
             Divider(color: Colors.grey[700], thickness: 1),

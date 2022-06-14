@@ -33,24 +33,7 @@ class _MyAppState extends State<MyApp> {
             ),
             Scaffold(
                 backgroundColor: Colors.transparent,
-                appBar: AppBar(
-                  backgroundColor: Colors.white,
-                  elevation: 0,
-                  actions: [
-                    TextButton(
-                        onPressed: () {},
-                        child: Padding(
-                          padding: const EdgeInsets.symmetric(horizontal: 16),
-                          child: Text(
-                            "Skip",
-                            style: TextStyle(
-                                fontSize: 16,
-                                fontWeight: FontWeight.bold,
-                                color: Colors.grey[700]),
-                          ),
-                        ))
-                  ],
-                ),
+
                 //backgroundColor: Colors.blueGrey[900],
                 body: SafeArea(
                     child: Column(
