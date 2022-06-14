@@ -1,16 +1,10 @@
 # emoji_quiz_app
 
-A new Flutter project.
+An emoji quiz app with flutter.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|  ![Simulator Screen Shot - iPhone 13 - 2022-06-14 at 02 20 03](https://user-images.githubusercontent.com/56762634/173474227-d12e15c0-5305-4eb7-a205-ab478929da04.png) | ![Simulator Screen Shot - iPhone 13 - 2022-06-14 at 02 20 14](https://user-images.githubusercontent.com/56762634/173474250-6adc390b-22df-45f0-b416-0ed92f313f78.png) |
+| ------------- | ------------- |
+|![Simulator Screen Shot - iPhone 13 - 2022-06-14 at 02 20 23](https://user-![Simulator Screen Shot - iPhone 13 - 2022-06-14 at 02 22 38](https://user-images.githubusercontent.com/56762634/173474308-a3094c7c-24d4-4539-a4c1-6cdf5d215bf3.png)
+images.githubusercontent.com/56762634/173474281-81afe5c5-5426-4763-9188-770ef3759f24.png)   |  ![Uploading Simulator Screen Shot - iPhone 13 - 2022-06-14 at 02.22.38.png…]() |
