@@ -39,7 +39,7 @@ class _MyAppState extends State<MyApp> {
                     child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                      SizedBox(height: 16),
+                      SizedBox(height: 18),
                       QuizBody(),
                     ]))),
           ],
