@@ -1,0 +1,57 @@
+List quizquestions = [
+  Question(
+    question:
+        "What attraction in Montreal is one of the largests in the world?",
+    emoji: "🇨🇦🍁",
+    answers: {
+      "🌺 The Botanical Gardens": true,
+      "🔬 The Science Meuseum": false,
+      "🏟 The Olympic Stadiums": false,
+    },
+  ),
+  Question(
+    question: "Which country is brie cheese originally from?",
+    emoji: "🧀",
+    answers: {
+      "🇧🇪 Belgium": false,
+      "🥨 Germany": false,
+      "🏟 France": true,
+    },
+  ),
+  Question(
+    question: "Where did Taylor Swift spend her early years?",
+    emoji: "🧣🎸",
+    answers: {
+      "🦁 An African Safari": false,
+      "🎄 A Christmas Tree Farm": true,
+      "🎙️ A Radio Studio": false,
+    },
+  ),
+  Question(
+    question: "Mars is Named after the Roman god Mars. What is he the god of ?",
+    emoji: "🪐🛰️",
+    answers: {
+      "🔥 Fire": false,
+      "⚔️ War": true,
+      "❤️‍🔥 Love": false,
+    },
+  ),
+  Question(
+    question: "Which city had the first ever fashion week?",
+    emoji: "👗",
+    answers: {
+      "🗽 New York": true,
+      "🇫🇷 Paris": false,
+      "🗼 Tokyo": false,
+    },
+  ),
+  Question(
+    question: "What country baned M&Ms?",
+    emoji: "🍫🍬",
+    answers: {
+      "🇸🇬 Singapore": false,
+      "🇦🇷 Argentina": false,
+      "🇸🇪 Sweden": true,
+    },
+  )
+];
